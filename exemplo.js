@@ -45,6 +45,6 @@
 
 //parseFloat => Transforma o que esta entre () em numero com virgula / numero fracionado
 
-let pronduto1 = parseFloat(prompt("Digite o valor do produto: "))
+// let pronduto1 = parseFloat(prompt("Digite o valor do produto: "))
 
-let produto2 = parseFloat(prompt("Digite o valor do segundo produto: "))
+// let produto2 = parseFloat(prompt("Digite o valor do segundo produto: "))

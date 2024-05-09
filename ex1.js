@@ -15,6 +15,7 @@ let senha = prompt ("Digite sua senha");
 // Verifique se o nome de usuário é "admin" e a senha é "senha123"
 // CASO SIM -> Exibe a mensagem de login bem sucedida.
 // CASO NAO -> Exiba a mensagem de usuário ou senha incorreta.
+
 if(username == "admin" && senha == "senha123") {
  console.log ("Login bem sucedido")
 } 

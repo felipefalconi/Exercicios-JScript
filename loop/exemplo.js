@@ -23,9 +23,9 @@
 
 // console.log(frutas[3])
 
-for(let indice = 0; indice < frutas.lenght; indice++){
-    console.log(frutas[indice]);
-    if(frutas[indice] == "Pitaya"){
-        console.log("Eu gosto de ")
-    }
-}
+// for(let indice = 0; indice < frutas.lenght; indice++){
+//     console.log(frutas[indice]);
+//     if(frutas[indice] == "Pitaya"){
+//         console.log("Eu gosto de ")
+//     }
+// }

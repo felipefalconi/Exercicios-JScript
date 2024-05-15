@@ -3,9 +3,11 @@
 
 let numero = parseInt(prompt("Digite um número para ver a sua tabuada:"));
 
-{
+if (!isNaN(numero)){
   console.log("Tabuada do",numero + ":");
-  for (let i = 1; i <= 10; i++) {
-    console.log(numero + " x " + i + " = " + (numero * i));
+  for (let cont = 1; cont <= 10; cont++) {
+    console.log(numero + " x " + cont + " = " + (numero * i));
   }
+}else{
+  console.log("Número inválido. Por")
 }
